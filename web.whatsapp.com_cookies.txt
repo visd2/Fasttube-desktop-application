@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.web.whatsapp.com	TRUE	/	TRUE	1780383522	wa_ul	c8b8e8c1-9efd-47c8-9839-ab9589988529
+.web.whatsapp.com	TRUE	/	TRUE	1775026776	wa_web_lang_pref	en_GB
