@@ -69,3 +69,21 @@ temp/
 # =========================
 *_Setup.exe
 *_installer.exe
+
+# Build files
+output/
+dist/
+build/
+
+# Executables
+*.exe
+*.msi
+
+# ffmpeg
+ffmpeg.exe
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
